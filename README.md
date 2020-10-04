@@ -5,3 +5,6 @@ To run,
 Clone this repo,
 npm install
 npm run start
+
+See Contributing Guidelines for opening PR
+
